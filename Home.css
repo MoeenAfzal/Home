@@ -1,0 +1,67 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-image: url(images/bg-4.jpg);
+            background-attachment: fixed;
+            height: 100vh;
+            width: 100vw;
+            background-position: center;
+            background-size: cover;
+            position: absolute;
+        }
+        
+        .topnav {
+            overflow: hidden;
+            position: relative;
+            width: auto;
+            height: auto;
+            
+            
+            
+          }
+          
+          .topnav a {
+            font-weight: bold;
+            float: left;
+            display: block;
+            color: #f7f2f2;
+            text-align: center;
+            padding:  16px;
+            text-decoration: none;
+            font-size: 17px;
+            ;
+          }
+          
+          .topnav a:hover {
+            
+            color: black;
+          }
+          
+
+
+        .button {
+            max-width: 20vw;
+            height: 9vh;
+            font-size: 3vw;
+            margin-top: 4rem;
+            cursor: pointer;
+            background-color: rgb(240, 175, 240);
+            
+            display: block !important;
+            vertical-align: middle;
+            margin-left: 14em;
+            width: 14rem;
+            border: 2px solid floralwhite;
+            border-radius: 20px;
+
+
+
+        }
+
+        .button:hover {
+            background-color: rgb(236, 97, 236);
+
+        }
+    
